@@ -1,0 +1,181 @@
+Dear Fabio
+
+ 
+
+After searching on Elsevier Science Direct, I have selected the following queries.
+The domain of the query is getting larger from top to bottom.
+About the abstract numbers, I am not sure. 500? Maybe for the first three domains, we do 800? 
+
+Please have a look at these queries :D, to see if you agree with the format and selections. The domain: Everything English is not included. I will leave this to you since you are not in the Geo domain. It selected by your sounds reasonable.
+
+Best regards
+Yuanwei
+
+===============================================
+
+Structural Fault Domain (300):
+
+JSG-Fault 300
+SRCTITLE(Journal of Structural Geology) AND TITLE-ABS-KEY(Fault)
+
+...............................................
+
+Structural fault with tectonics domain (600):
+
+(Same of the query above)
+SRCTITLE(Journal of Structural Geology) AND TITLE-ABS-KEY(Fault)
+
+(300)
+SRCTITLE(Tectonophysics) AND TITLE-ABS-KEY(Fault)
+
+................................................
+
+Fault Industry (Petroleum,Mining, etc) (300):
+
+(100)
+SRCTITLE(Marine and Petroleum Geology) AND TITLE-ABS-KEY(Fault)
+
+(100)
+SRCTITLE(International Journal of Rock Mechanics and Mining Sciences) AND TITLE-ABS-KEY(Fault)
+
+(100)
+SRCTITLE(Ore Geology Reviews) AND TITLE-ABS-KEY(Fault)
+
+...............................................
+
+Structural fault with tectonics and fault industry domain:
+
+(Same of the query above)
+SRCTITLE(Journal of Structural Geology) AND TITLE-ABS-KEY(Fault)
+
+(300)
+SRCTITLE(Tectonophysics) AND TITLE-ABS-KEY(Fault)
+
+(100)
+SRCTITLE(Marine and Petroleum Geology) AND TITLE-ABS-KEY(Fault)
+
+(100)
+SRCTITLE(International Journal of Rock Mechanics and Mining Sciences) AND TITLE-ABS-KEY(Fault)
+
+(100)
+SRCTITLE(Ore Geology Reviews) AND TITLE-ABS-KEY(Fault)
+
+..................................................
+
+Strctural geology + industry geology + tectonics in general (600).
+
+(120)
+SRCTITLE(Journal of Structural Geology)
+
+(120)
+SRCTITLE(Marine and Petroleum Geology)
+
+(120)
+SRCTITLE(International Journal of Rock Mechanics and Mining Sciences)
+
+(120)
+SRCTITLE(Ore Geology Reviews)
+
+(120)
+SRCTITLE(Tectonophysics)
+
+..............................................
+
+Geology + industry Domain (1080)
+
+(Same of the query above)
+SRCTITLE(Journal of Structural Geology)
+
+(Same of the query above)
+SRCTITLE(Marine and Petroleum Geology)
+
+(Same of the query above)
+SRCTITLE(International Journal of Rock Mechanics and Mining Sciences)
+
+(Same of the query above)
+SRCTITLE(Ore Geology Reviews)
+
+(120)
+SRCTITLE(Marine Geology)
+
+(120)
+SRCTITLE(Sedimentary Geology)
+
+(120)
+SRCTITLE(Ore and Energy Resource Geology)
+
+(120)
+SRCTITLE(Engineering Geology)
+
+(Same of the query above)
+SRCTITLE(Tectonophysics)
+
+.............................................
+
+Geoscience + Environment + Industry (2040)
+
+(Same of the query above)
+SRCTITLE(Journal of Structural Geology)
+
+(Same of the query above)
+SRCTITLE(Marine and Petroleum Geology)
+
+(Same of the query above)
+SRCTITLE(International Journal of Rock Mechanics and Mining Sciences)
+
+(Same of the query above)
+SRCTITLE(Ore Geology Reviews)
+
+(Same of the query above)
+SRCTITLE(Marine Geology)
+
+(Same of the query above)
+SRCTITLE(Sedimentary Geology)
+
+(Same of the query above)
+SRCTITLE(Ore and Energy Resource Geology)
+
+(Same of the query above)
+SRCTITLE(Engineering Geology)
+
+(Same of the query above)
+SRCTITLE(Tectonophysics)
+
+(120)
+SRCTITLE(Journal of Petroleum Science and Engineering)
+
+(120)
+SRCTITLE(Geoscience Frontiers)
+
+(120)
+SRCTITLE(Geomechanics for Energy and the Environment)
+
+(120)
+SRCTITLE(Earth-Science Reviews)
+
+(120)
+SRCTITLE(Earth and Planetary Science Letters)
+
+(120)
+SRCTITLE(Journal of Geodynamics)
+
+(120)
+SRCTITLE(Computers & Geosciences)
+
+(120)
+SRCTITLE(Polar Science)
+
+.................................................
+
+Everything English (2040)
+
+
+SRCTITLE(Journal of Advanced Research)
+A multidisciplinary journal with higher SJR index with abstracts available on Scopus/Science Direct API 
+
+PUBYEAR = 2022 AND LANGUAGE(english) AND PAGES(1-10) 
+
+heart+attack+AND+PUBYEAR(2022)
+LANGUAGE(english)+PUBYEAR(2022)+PAGES(1-10)
+
+https://api.elsevier.com/content/search/scopus?start=1&count=20&query=SRCTITLE(Computers Geosciences)&apiKey=5d73370a8ca0bde7dc0ed72e428e1b52
